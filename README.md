@@ -4,3 +4,5 @@ My name is Hanan Khawar.
 It's our first quiz.
 <br>
 We are on the new branch.
+<br>
+The branches are merged.
